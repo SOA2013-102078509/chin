@@ -1,0 +1,12 @@
+name:Chang Chin
+nickname:David
+
+department: ISS
+Track:management
+
+Programing background:
+-Java/C/asp/php
+-database
+
+work experience:
+-TA in English class
